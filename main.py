@@ -3,7 +3,7 @@ from auth import login, signup
 from pages.dashboard import show_dashboard
 
 def main():
-    st.title("Accounting App v1.0")
+    st.title("Accounting App v1.1")
     menu = ["Login", "Sign Up"]
     choice = st.sidebar.selectbox("Menu", menu)
     

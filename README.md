@@ -1,6 +1,8 @@
 # Accounting App using Streamlit
-Accounting App v1.0
+Accounting App v1.1
 ===================
+
+Created by: Fahad Khakwani (Python Engineer)
 
 Description:
 ------------
@@ -13,6 +15,21 @@ Features:
 - Income & Expense management
 - Financial reports generation
 - SQLite database support
+
+Installation:
+-------------
+1. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+2. Run the application:
+   ```
+   streamlit run main.py
+   ```
+
+Contributors:
+-------------
+Fahad Khakwani (Python Engineer)
 
 ## 📌 Overview
 This is a **personal finance management application** built using **Python and Streamlit**. It allows users to:
@@ -57,10 +74,6 @@ accounting_app/
    ```bash
    streamlit run main.py
    ```
-
-Contributors:
--------------
-Fahad Khakwani (Python Engineer)
 
 
 ## 🛠 Tech Stack
