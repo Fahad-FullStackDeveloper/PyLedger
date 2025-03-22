@@ -1,0 +1,8 @@
+# Dependencies
+    streamlit
+    sqlite3
+    # streamlit_authenticator
+    # plotly
+    # pandas
+    # matplotlib
+    # pymongo
